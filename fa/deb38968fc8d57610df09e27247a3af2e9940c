@@ -1,0 +1,14 @@
+index.html
+  h_4074bf93e420e5 1-347
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "fadeb38968fc8d57610df09e27247a3af2e9940c",
+  "prompts": {},
+  "humans": {
+    "h_4074bf93e420e5": {
+      "author": "Miguel Angel Marcos <miguel.marcos@nomasystems.com>"
+    }
+  }
+}
